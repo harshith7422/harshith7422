@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith7422&label=Profile%20views&color=0e75b6&style=flat" alt="harshith7422" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshith7422" alt="harshith7422" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://harshithportfolio.framer.website/](https://harshithportfolio.framer.website/)
 
 - 📫 How to reach me **harshith7422@gmail.com**
